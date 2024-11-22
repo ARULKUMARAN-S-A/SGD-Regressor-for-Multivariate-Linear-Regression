@@ -1,4 +1,4 @@
-# SGD-Regressor-for-Multivariate-Linear-Regression
+![ml expt 4](https://github.com/user-attachments/assets/6e640812-8738-4d74-8163-270faec86054)# SGD-Regressor-for-Multivariate-Linear-Regression
 
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
@@ -22,7 +22,8 @@ To write a program to predict the price of the house and number of occupants in 
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: Yokesh I
 RegisterNumber: 24013623 
-*/import numpy as np 
+*/
+import numpy as np 
 from sklearn.datasets import fetch_california_housing 
 from sklearn.linear_model import SGDRegressor 
 from sklearn.multioutput import MultiOutputRegressor 
@@ -53,7 +54,9 @@ print("\nPredictions:\n",y_pred[:5])
 
 ## Output:
 ![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+![ml expt 4](https://github.com/user-attachments/assets/d94429fe-70e8-4404-bbeb-16acc5a0c6dd)
 
 
 ## Result:
+
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
